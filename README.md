@@ -120,7 +120,7 @@ Here is the information of each argument to specify:
 
 
 ## Demo
-As an example, we provide a code file `src/lama.py` that can be run simply with `cd src && python lama.py` 
+As an example, we provide a code file `src/example.py` that can be run simply with `cd src && python example.py` 
 
 The code meta-trains a BERT-Base model on the training tasks of fold 0 of LAMA and meta-tests the meta-trained
 model on the validation and testing tasks of fold 0 of LAMA. Please refer to our [paper](https://arxiv.org/pdf/2110.07814.pdf)
