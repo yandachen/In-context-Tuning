@@ -133,10 +133,20 @@ If you have any questions related to the code or the paper, feel free to reach o
 ## Citation
 
 ```bibtex
-@article{chen2021meta,
-  title={Meta-learning via language model in-context tuning},
-  author={Chen, Yanda and Zhong, Ruiqi and Zha, Sheng and Karypis, George and He, He},
-  journal={arXiv preprint arXiv:2110.07814},
-  year={2021}
+@inproceedings{chen-etal-2022-meta,
+    title = "Meta-learning via Language Model In-context Tuning",
+    author = "Chen, Yanda  and
+      Zhong, Ruiqi  and
+      Zha, Sheng  and
+      Karypis, George  and
+      He, He",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.53",
+    doi = "10.18653/v1/2022.acl-long.53",
+    pages = "719--730",
 }
 ```
